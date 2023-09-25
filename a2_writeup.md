@@ -12,9 +12,9 @@ This assignment is about learning and applying the while loop and iterating thro
 
 ## Reflection Questions
 1. What was difficult for you while completing the match function?
-Some of the steps were simple but working on the last step (#2) was the most challening to get but I think I'm understanding how it work now. Steps 3-6 were pretty simple while 1 took a few more minutes but I got it. For number 2 I think the most challenging part was 
+Some of the steps were simple but working on the last step (#2) was the most challening to get but I think I'm understanding how it work now. Steps 3-6 were pretty simple while 1 took a few more minutes but I got it. For number 2 I think the most challenging part was just understanding how to put the thought into code. Doing it last defintely helped and having the notes but I just couldn't figure out how to do it for a while.
 
 
 2. Explain how you could use the match function for extracting information from a movie database.
-I could use the match function for extracting information from a movie database by making the function to
+I could use the match function for extracting information from a movie database by making the function be able to see try and match someone's input movie to see if it's in the data base. Instead of making it match x,y,z in this data set, I would make it match to find a movies in the data base. So I would have user input so a user can type in the movie and then I would have the asserts/ matches at the end be equal to different movies that are in the data base which would then tell the information after it matches. Then if there was a movie that wasn't in it, I would create a a elif statement to show it doesn't exist in the database. 
 
